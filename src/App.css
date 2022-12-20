@@ -1,0 +1,9 @@
+.App nav ul{
+    display:  flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.App nav ul li {
+    list-style: none;
+}
